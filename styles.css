@@ -22,7 +22,7 @@
 			  display: block;
 			  color: #140525;
 			  text-align: center;
-			  margin: 40px 60px;
+			  margin: 40px 30px;
 			  padding: 10px;
 			  text-decoration: none;
 			  font-family: 'Montserrat', sans-serif;
@@ -167,7 +167,7 @@
 			.gaming{
 			  float: right;
 			  color: #140525;
-			  font-size: 3em;'
+			  font-size: 2em;'
 			  position: absolute;
 			  text-align: right;
 			  font-family: 'Montserrat', sans-serif;
@@ -175,7 +175,7 @@
 			}
 			
 			.message{
-			  font-size: 30px;'
+			  font-size: 22px;'
 			  position: absolute;
 			  text-align: center;
 			  font-family: 'Montserrat', sans-serif;
